@@ -1,7 +1,7 @@
 # JS
 
 ## Base de JS
-
+[](https://icp.ge.ch/po/calvin/espace-pedagogique/informatique/cours-de-b.-emery/cours-4inoc-2012-13/cours-6-bases-du-javascript)
 > MDN : Les bases de Javascript
 
 [Les bases](https://jsbin.com/cugice/edit?js,console)
