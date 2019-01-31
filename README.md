@@ -2,6 +2,8 @@
 
 ## Base de JS
 
+[Du début à ..](https://icp.ge.ch/po/calvin/espace-pedagogique/informatique/cours-de-b.-emery/cours-4inoc-2012-13/cours-6-bases-du-javascript)
+
 [Apprendre JS](https://developer.mozilla.org/fr/docs/Apprendre/JavaScript)
 
 [Les bases](https://jsbin.com/cugice/edit?js,console)
@@ -20,8 +22,13 @@
 ## Notions à voir :
 
 . Comment interagir avec le DOM ?
+[Présentation DOM](https://www.pierre-giraud.com/javascript/cours-complet/javascript-presentation-dom-html.php)
 
 [Découvrez le DOM](https://openclassrooms.com/fr/courses/3306901-creez-des-pages-web-interactives-avec-javascript/3501871-decouvrez-le-dom)
+
+
+
+
 
 . Gestion des évenements ?
 
