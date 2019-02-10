@@ -28,16 +28,3 @@ Comment interagir avec le DOM ?
 [Présentation DOM](https://www.pierre-giraud.com/javascript/cours-complet/javascript-presentation-dom-html.php)
 
 [Découvrez le DOM](https://openclassrooms.com/fr/courses/3306901-creez-des-pages-web-interactives-avec-javascript/3501871-decouvrez-le-dom)
-
-
-
-# Todo 
-
-. Gestion des évenements ?
-
-...
-
-. Utiliser une api.
-
-...
-
