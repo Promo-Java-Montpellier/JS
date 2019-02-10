@@ -1,6 +1,7 @@
 # JS
 
 ## Base de JS
+Rappels des liens de la prairie
 
 [Du début à ..](https://icp.ge.ch/po/calvin/espace-pedagogique/informatique/cours-de-b.-emery/cours-4inoc-2012-13/cours-6-bases-du-javascript)
 
@@ -28,7 +29,7 @@ Comment interagir avec le DOM ?
 
 
 
-
+# Todo 
 
 . Gestion des évenements ?
 
